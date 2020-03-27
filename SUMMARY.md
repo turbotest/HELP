@@ -2,13 +2,16 @@
 
 ## Use headings to create page groups like this one​
 
-* [First page's title](page1/README.md)    
-    * [Some child page](page1/page1-1.md)    
-    * [Some other child page](part1/page1-2.md)
+* [What is Turbo Test?](./README.md)
 
-* [Second page's title](page2/README.md)    
-    * [Some child page](page2/page2-1.md)    
-    * [Some other child page](part2/page2-2.md)    
+* [Quick Start with a Private Repo](quick-start/intro.md)
+    * [Install Turbo Test to Your Github Account](quick-start/installation.md)
+    * [Create the .turbo_test.yml file](quick-start/create-yaml-file.md)
+    * [Install packages](quick-start/install-packages.md)
+    * [Add setup](quick-start/add-setup.md)
+    * [Add the test suite](quick-start/add-test-suite.md)
+    * [Test locally](quick-start/test-locally.md)
+    * [Commit and push](quick-start/commit-and-push.md)
 
 ## A second-page group​
 
