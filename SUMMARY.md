@@ -1,6 +1,6 @@
 ‌# Summary​
 
-* [What is Turbo Test?](./README.md)
+* [What is Turbo Test?](./what-is-turbo-test.md)
 
 * [Quick Start with a private repo](quick-start/intro.md)
     * [Install Turbo Test to your Github account](quick-start/installation.md)
