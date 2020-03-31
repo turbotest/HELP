@@ -31,7 +31,7 @@ setup: |
      echo $FOO
    ```
 
-The commands needed to set up each virtual machine individually (in addition to those already included in the 
+These are commands needed to set up each virtual machine individually (in addition to those already included in the 
 `install` section to create the VM template).
 
 
