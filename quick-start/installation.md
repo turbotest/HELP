@@ -10,4 +10,4 @@ The first step is to install the TurboTest application to your Github account:
 1. Input your password and click the green "Confirm password" button.
 1. You will be brought to the Turbo Test page. If you see a message saying "Please install turbotest github application on one of your repositories", refresh the page. (This will be fixed soon.)
 
-That's it, you're done. You will see all the repos you selected (or all of them) with the text "waiting for first build..." beside them.
+That's it, you're done. You will see all the repos on which you installed Turbo Test with the text "waiting for first build..." beside them.
