@@ -26,7 +26,7 @@
 
 * [Installation (as a Github application)](github-app/installation.md)
 
-* Using the sandbox repository
+* [Using the sandbox repository](sandbox/sandbox-intro.md)]
     * [git clone ...](sandbox/git-clone.md)
     * [Install the application](sandbox/install-application.md)
     * [Edit the configuration file](sandbox/edit-config-file.md)
