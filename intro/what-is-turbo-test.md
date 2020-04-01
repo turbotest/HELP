@@ -7,7 +7,8 @@ Like the proverbial Unix command line utility, it is not designed with a kitchen
 Turbo Test is designed to be simple to configure and use. Here is all you need to do to start using it:
 
 * sign up for the service
-* install the application onto your Github account
-* configure the test runs in your .turbo_test.yml file.
+* install the application onto your Github account...
+* ...including specifying which repos on which you want to run TurboTest
+* for each repo, configure the .turbo_test.yml file.
 
 You do not need to sign up for the cloud resources used to perform the tests -- we do that for you. Our goal is to offload from you as much as possible so you can focus on what you do best -- creating great software.
