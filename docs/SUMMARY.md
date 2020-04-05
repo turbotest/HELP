@@ -1,5 +1,3 @@
-‌# Summary​
-
 * [What is Turbo Test?](intro/what-is-turbo-test.md)
 
 * [Quick Start](quick-start/intro.md)
