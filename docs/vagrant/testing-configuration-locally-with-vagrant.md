@@ -3,9 +3,10 @@
 Whenever you push changes to Github, Turbo Test will:
 
 * ensure that the VM's used to test your software will have had your `install` and `setup` sections run
-* run the tests on all files included in your test suite's configuration's `files` section
+* make the specified environment variables available to the test command
+* run the test command on all files included in your test suite's configuration's `files` section
 
-However, if you make changes in your configuration, it would be nice to be able to test those changes locally before pushing them. This is easily accomplished using Vagrant.
+However, if you make changes in your configuration, it would be nice to be able to test those changes locally before pushing them. This is easily accomplished using [Vagrant](https://www.vagrantup.com/docs/installation/). See the troubleshooting note below regarding a Vagrant issue and its solution if you need it.
 
 A `Vagrantfile` is provided that will create a virtual machine identical to the one Turbo Test will use on the cloud. Using this local VM, you can test your configuration file locally.
 
@@ -14,12 +15,12 @@ There are of course a multitude of ways you could do this, but here are some sug
 
 ### yq
 
-`yq` is a command line utility written in go that performs various kinds of operations on YAML files. This can help in your experimentation and debugging. To download it, go [here](https://github.com/mikefarah/yq#download-the-latest-binary).
+[`yq`](https://github.com/mikefarah/yq) is a command line utility written in the Go language that performs various kinds of operations on YAML files. This can help in your experimentation and debugging. It can be downloaded [here](https://github.com/mikefarah/yq#download-the-latest-binary).
 
 You can extract pieces of your YAML configuration file using `yq`. For example, to extract the install section, you can run:
 
 ```
-$ yq r .turbo_test.yml 'install'
+$ yq r .turbo_test.yml install
 
 sudo apt-get update -y
 sudo apt-get install make upstart gcc g++ make -y --no-install-recommends
@@ -28,7 +29,7 @@ sudo apt-get install make upstart gcc g++ make -y --no-install-recommends
 ...or nested elements such as:
 
 ```
-$ yq r .turbo_test.yml 'test_suite.files'
+$ yq r .turbo_test.yml test_suite.files
 
 - test_17_mins/*_test.sh
 ...
@@ -39,9 +40,11 @@ If you copy the output of these commands to your clipboard (for example, by appe
 
 In this way, you can verify that your installation and setup commands succeed, without needing to push any changes to Github.
 
+----
 
-#### Troubleshooting Note
-If you have installed vagrant using a package manager, and are having problems running vagrant, e.g.:
+##### Vagrant Troubleshooting Note
+
+If you have installed vagrant using a package manager, and are having this problem running it:
 
 ```
 zsh: /usr/bin/vagrant: bad interpreter: /usr/bin/ruby: no such file or directory
