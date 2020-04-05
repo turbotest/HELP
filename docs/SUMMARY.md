@@ -22,7 +22,7 @@
     * [Setup](config-file/setup.md)
     * [Test suites](config-file/test-suites.md)
 
-* [Debugging locally with Vagrant](vagrant/debugging-with-vagrant.md)
+* [Testing configuration locally with Vagrant](vagrant/testing-configuration-locally-with-vagrant.md)
 
 * [Installation (as a Github application)](github-app/installation.md)
 
