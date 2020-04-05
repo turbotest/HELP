@@ -6,7 +6,7 @@ Whenever you push changes to Github, Turbo Test will:
 * make the specified environment variables available to the test command
 * run the test command on all files included in your test suite's configuration's `files` section
 
-However, if you make changes in your configuration, it would be nice to be able to test those changes locally before pushing them. This is easily accomplished using [Vagrant](https://www.vagrantup.com/docs/installation/). See the troubleshooting note below regarding a Vagrant issue and its solution if you need it.
+However, if you make changes in your configuration, it would be nice to be able to test those changes locally _before_ pushing them. This is easily accomplished using [Vagrant](https://www.vagrantup.com/docs/installation/). See the troubleshooting note below regarding a Vagrant issue and its solution if you need it.
 
 A `Vagrantfile` is provided that will create a virtual machine identical to the one Turbo Test will use on the cloud. Using this local VM, you can test your configuration file locally.
 
