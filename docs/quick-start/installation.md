@@ -1,1 +1,1 @@
-Install Turbo Test to your Github account by following the instructions [here](../github-app/installation.md)
+Install Turbo Test to your Github account by following [these instructions](../github-app/installation.md).

@@ -4,13 +4,17 @@ by Gitbook or by authorized documentation authors
 without this hook, so this may or may not
 be the most recent commit:
 
-commit 9b47a8dfdfd521f4f4b7ba2f880b95ede52b71eb
+----
+
+commit 8d2a8684deec9534059e196cf3b71f8971f0fe80
 Author: Keith Bennett <keithrbennett@gmail.com>
-Date:   Thu Apr 9 19:29:16 2020 -0400
+Date:   Thu Apr 9 19:43:16 2020 -0400
 
-    Make documentation version a bulleted item.
+    Include most recent git log entry in debug output.
 
-Thu Apr  9 23:43:16 UTC 2020 
+----
+
+Thu Apr  9 23:53:00 UTC 2020 
 
 Github URL: origin	git@github.com:turbotest/HELP.git (fetch)
 

@@ -22,7 +22,7 @@
 
 * [Testing configuration locally with Vagrant](vagrant/testing-configuration-locally-with-vagrant.md)
 
-* [Installation (as a Github application)](github-app/installation.md)
+* [Installation as a Github application](github-app/installation.md)
 
 * [Using the sandbox repository](sandbox/sandbox-intro.md)]
     * [git clone ...](sandbox/git-clone.md)

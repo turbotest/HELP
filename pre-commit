@@ -7,7 +7,11 @@ by Gitbook or by authorized documentation authors
 without this hook, so this may or may not
 be the most recent commit:
 
+----
+
 $(PAGER= git log -1)
+
+----
 
 $(date -u) 
 
