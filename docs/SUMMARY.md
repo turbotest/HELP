@@ -47,4 +47,4 @@
     * [Safety cap](pricing/safety-cap.md)
     
 
-[Data version (experimental)](timestamp.md)
+* [Data version (experimental)](timestamp.md)
