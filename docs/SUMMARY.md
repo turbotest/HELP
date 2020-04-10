@@ -47,4 +47,4 @@
     * [Safety cap](pricing/safety-cap.md)
     
 
-* [Data version (experimental)](timestamp.md)
+* [Documentation Metadata](documentation-metadata.md)

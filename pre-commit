@@ -15,7 +15,7 @@ GITHUB_REPO=$(\
 GITBOOK_URL=$(cat gitbook-url)
 
 
-cat << EOF >  docs/timestamp.md
+cat << EOF >  docs/documentation-metadata.md
 This file is created at commit-time on a git repo that has this hook installed.
 
 Commits may be made by Gitbook or by authorized documentation authors without this hook,
@@ -33,4 +33,4 @@ so this may or may not be the most recent commit date:
 
 EOF
 
-git add docs/timestamp.md
+git add docs/documentation-metadata.md
