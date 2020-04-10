@@ -1,7 +1,7 @@
 * [What is Turbo Test?](intro/what-is-turbo-test.md)
 
-* [Quick Start](quick-start/intro.md)
-    * [Install Turbo Test to your Github account](quick-start/installation.md)
+* [Quick Start](quick-start/quick-start-intro.md)
+    * [Install Turbo Test to your Github account](quick-start/quick-start-github-installation.md)
     * [Create the .turbo_test.yml file](quick-start/create-yaml-file.md)
     * [Install packages](quick-start/install-packages.md)
     * [Add setup](quick-start/add-setup.md)
@@ -16,13 +16,13 @@
     
 * [The .turbo-test.yml configuration file](config-file/config-file-intro.md)
     * [Environment variables](config-file/env-vars.md)
-    * [Installation](config-file/installation.md)
-    * [Setup](config-file/setup.md)
+    * [Installation](config-file/test-vm-installation.md)
+    * [Setup](config-file/test-vm-setup.md)
     * [Test suites](config-file/test-suites.md)
 
 * [Testing configuration locally with Vagrant](vagrant/testing-configuration-locally-with-vagrant.md)
 
-* [Installation as a Github application](github-app/installation.md)
+* [Installation as a Github application](github-app/github-app-installation.md)
 
 * [Using the sandbox repository](sandbox/sandbox-intro.md)]
     * [git clone ...](sandbox/fork-or-clone-it.md)
