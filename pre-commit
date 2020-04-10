@@ -6,7 +6,8 @@ This file is created at commit-time on a git repo that has this hook installed.
 Commits may be made by Gitbook or by authorized documentation authors without this hook,
 so this may or may not be the most recent commit date:
 
-$(date -u)
+Local: $(date)
+UTC:   $(date -u)
 
 Github URL: $(git remote -v | grep origin | head -1)
 
