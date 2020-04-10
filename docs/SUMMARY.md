@@ -28,7 +28,7 @@
     * [git clone ...](sandbox/fork-or-clone-it.md)
     * [Install the application](sandbox/install-application.md)
     * [Edit the configuration file](sandbox/edit-config-file.md)
-    * [Push commit](sandbox/pushing-your-commit.md)
+    * [Pushing your commit](sandbox/pushing-your-commit.md)
     
 * Language-specific reference
     * [Ruby](lang/ruby.md)
