@@ -5,11 +5,11 @@ so this may or may not be the most recent commit date:
 
 ### Commit Time
 
-* Local Time: Thu Apr  9 21:44:23 EDT 2020
-* UTC Time:   Fri Apr 10 01:44:23 UTC 2020
+* Local Time: Thu Apr  9 22:10:11 EDT 2020
+* UTC Time:   Fri Apr 10 02:10:11 UTC 2020
 
 ### Links
 
-* Github URL: origin	git@github.com:turbotest/HELP.git (fetch)
+* Github URL: git@github.com:turbotest/HELP.git
 * Gitbook URL: https://turbo-test.help
 

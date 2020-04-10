@@ -14,7 +14,7 @@
     * [No queueing](architecture/no-queueing.md)
     
     
-* Configuration file reference
+* [The .turbo-test.yml configuration file](config-file/config-file-intro.md)
     * [Environment variables](config-file/env-vars.md)
     * [Installation](config-file/installation.md)
     * [Setup](config-file/setup.md)
