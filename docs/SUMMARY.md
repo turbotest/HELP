@@ -22,7 +22,7 @@
 
 * [Testing configuration locally with Vagrant](vagrant/testing-configuration-locally-with-vagrant.md)
 
-* [Installation as a Github application](github-app/github-app-installation.md)
+* [Installing Turbo Test as a Github Application](github-app/github-app-installation.md)
 
 * [Using the sandbox repository](sandbox/sandbox-intro.md)]
     * [git clone ...](sandbox/fork-or-clone-it.md)
