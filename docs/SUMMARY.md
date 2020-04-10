@@ -25,10 +25,10 @@
 * [Installation as a Github application](github-app/installation.md)
 
 * [Using the sandbox repository](sandbox/sandbox-intro.md)]
-    * [git clone ...](sandbox/git-clone.md)
+    * [git clone ...](sandbox/fork-or-clone-it.md)
     * [Install the application](sandbox/install-application.md)
     * [Edit the configuration file](sandbox/edit-config-file.md)
-    * [Push commit](sandbox/push-commit.md)
+    * [Push commit](sandbox/pushing-your-commit.md)
     
 * Language-specific reference
     * [Ruby](lang/ruby.md)

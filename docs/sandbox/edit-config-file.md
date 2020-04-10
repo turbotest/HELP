@@ -1,3 +1,10 @@
-The provided configuration for the sandbox can be found at [https://github.com/turbotest/sandbox/blob/master/.turbo_test.yml](https://github.com/turbotest/sandbox/blob/master/.turbo_test.yml).
+# The Configuration File
 
-Feel free to edit it as you like.
+You can find the sample sandbox configuration file `.turbo-test.yml` at 
+[https://github.com/turbotest/sandbox/blob/master/.turbo_test.yml](https://github.com/turbotest/sandbox/blob/master/.turbo_test.yml)
+or in the root of your project directory.
+
+Feel free to edit your copy to fit your needs.
+
+The configuration file reference is [here](../config-file).
+ 
