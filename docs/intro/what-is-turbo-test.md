@@ -15,7 +15,5 @@ We recommend familiarizing yourself with Turbo Test at first with a repo
 whose tests are not too time consuming. This will give you faster
 feedback while you are learning. 
 
-The sample sandbox repo we provide is an even easier starting point, as
+The [sample sandbox repo]((../../sandbox)) we provide is an even easier starting point, as
 it already has a working configuration file.
- 
-This sandbox repo and its use are described in the [Sandbox](../../sandbox) section.

@@ -1,6 +1,6 @@
 #!/bin/sh
 
-## Timestamp
+# Copy this file to .git/hooks/pre-commit.
 
 cat << EOF >  docs/timestamp.md
 This file is created at commit-time on a git repo that has this hook installed.
