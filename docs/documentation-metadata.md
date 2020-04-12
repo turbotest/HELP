@@ -1,12 +1,13 @@
-This file is created at commit-time on a git repo that has this hook installed.
+This page is created at commit-time when the git repo committed to has this pre-commit hook installed.
 
-Commits may be made by Gitbook or by authorized documentation authors without this hook,
-so this may or may not be the most recent commit date:
+If a commit has been made on a repo not having this hook installed, then this page
+will not accurately reflect the most recent commit.
+
 
 ### Commit Time
 
-* **Local Time:** Sun Apr 12 19:40:15 EDT 2020
-* **UTC Time:**   Sun Apr 12 23:40:15 UTC 2020
+* **Local Time:** Sun Apr 12 19:54:15 EDT 2020
+* **UTC Time:**   Sun Apr 12 23:54:15 UTC 2020
 
 ### Links
 
