@@ -9,7 +9,7 @@ Turbo Test is designed to be simple to configure and use. Here is all you need t
 * ...including specifying which repos on which you want to run TurboTest
 * for each repo, configure a .turbo_test.yml file.
 
-You do not need to sign up for the cloud resources used to perform the tests -- we do that for you.
+You do not need to sign up for the cloud resources used to perform the tests -- we do that for you, and the costs are included in your subscription.
 
 We recommend familiarizing yourself with Turbo Test at first with a repo
 whose tests are not too time consuming. This will give you faster

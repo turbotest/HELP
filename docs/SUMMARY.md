@@ -1,13 +1,13 @@
 * [What is Turbo Test?](intro/what-is-turbo-test.md)
 
-* [Quick Start](quick-start/quick-start-intro.md)
-    * [Install Turbo Test to your Github account](quick-start/quick-start-github-installation.md)
-    * [Create the .turbo_test.yml file](quick-start/create-yaml-file.md)
-    * [Install packages](quick-start/install-packages.md)
-    * [Add setup](quick-start/add-setup.md)
-    * [Add the test suite](quick-start/add-test-suite.md)
-    * [Test locally](quick-start/test-locally.md)
-    * [Push commit](quick-start/push-commit.md)
+* [Installing to Your Private Repo](installing-to-private-repo/installing-to-private-repo-intro.md)
+    * [Install Turbo Test to your Github account](installing-to-private-repo/installing-to-private-repo-github-installation.md)
+    * [Create the .turbo_test.yml file](installing-to-private-repo/create-yaml-file.md)
+    * [Install packages](installing-to-private-repo/install-packages.md)
+    * [Add setup](installing-to-private-repo/add-setup.md)
+    * [Add the test suite](installing-to-private-repo/add-test-suite.md)
+    * [Test locally](installing-to-private-repo/test-locally.md)
+    * [Push commit](installing-to-private-repo/push-commit.md)
 
 * Architecture -- how it works
     * [Massively parallel](architecture/massively-parallel.md)
