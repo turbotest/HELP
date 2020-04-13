@@ -8,6 +8,8 @@ Whenever you push changes to Github, Turbo Test will:
 
 However, if you make changes in your configuration, it would be nice to be able to test those changes locally _before_ pushing them. This is easily accomplished using [Vagrant](https://www.vagrantup.com/docs/installation/). See the troubleshooting note below regarding a Vagrant issue and its solution if you need it.
 
+In order to test changes in your `install` and `setup` sections, you will need to start with a fresh Vagrant VM. Run `vagrant destroy` to remove the existing VM so that the next time you do a `vagrant up` it will be with a new VM.
+
 A `Vagrantfile` is provided that will create a virtual machine identical to the one Turbo Test will use on the cloud. Using this local VM, you can test your configuration file locally.
 
 There are of course a multitude of ways you could do this, but here are some suggestions.
@@ -15,7 +17,7 @@ There are of course a multitude of ways you could do this, but here are some sug
 
 ### yq
 
-[`yq`](https://github.com/mikefarah/yq) is a command line utility written in the Go language that performs various kinds of operations on YAML files. This can help in your experimentation and debugging. It can be downloaded [here](https://github.com/mikefarah/yq#download-the-latest-binary).
+[`yq`](https://github.com/mikefarah/yq) is a command line utility written in the Go language that performs various operations on YAML files. This can help in your experimentation and debugging. It can be downloaded [here](https://github.com/mikefarah/yq#download-the-latest-binary).
 
 You can extract pieces of your YAML configuration file using `yq`. For example, to extract the install section, you can run:
 
