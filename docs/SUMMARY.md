@@ -17,21 +17,21 @@
     * [Setup](config-file/cf-setup-section.md)
     * [Test suites](config-file/cf-test-suite-section.md)
 
-* [Testing configuration locally with Vagrant](vagrant/testing-configuration-locally-with-vagrant.md)
+* [Testing configuration locally with Vagrant](vagrant/vg-testing-configuration-locally.md)
 
-* [Installing Turbo Test as a Github Application](github-app/github-app-installation.md)
+* [Installing Turbo Test as a Github Application](github-app/ga-installation.md)
 
-* [Using the sandbox repository](sandbox/sandbox-intro.md)]
-    * [git clone ...](sandbox/fork-or-clone-it.md)
-    * [Install the application](sandbox/install-application.md)
-    * [Edit the configuration file](sandbox/edit-config-file.md)
-    * [Pushing your commit](sandbox/pushing-your-commit.md)
+* [Using the sandbox repository](sandbox/sb-intro.md)]
+    * [git clone ...](sandbox/sb-fork-or-clone-it.md)
+    * [Install the application](sandbox/sb-install-application.md)
+    * [Edit the configuration file](sandbox/sb-edit-config-file.md)
+    * [Pushing your commit](sandbox/sb-pushing-your-commit.md)
     
 * Language-specific reference
-    * [Ruby](lang/ruby.md)
-        * [Example application](lang/ruby-example-app.md)
-        * [Rails template](lang/ruby-rails-template.md)
-        * [Rails DB templates](lang/ruby-rails-db-templates.md)
+    * [Ruby](lang/lng-ruby.md)
+        * [Example application](lang/lng-ruby-example-app.md)
+        * [Rails template](lang/lng-ruby-rails-template.md)
+        * [Rails DB templates](lang/lng-ruby-rails-db-templates.md)
         
 * Environment variables
     * [Global key/value pairs in the configuration file](env-vars/kv-pairs.md)
@@ -39,9 +39,9 @@
     * [Add encrypted variables in the web UI](env-vars/encrypted-variables.md)
     
 * Pricing
-    * [Metered](pricing/metered.md)
-    * [Billed monthly](pricing/billed-monthly.md)
-    * [Safety cap](pricing/safety-cap.md)
+    * [Metered](pricing/pr-metered.md)
+    * [Billed monthly](pricing/pr-billed-monthly.md)
+    * [Safety cap](pricing/pr-safety-cap.md)
     
 
 * [Documentation Metadata](documentation-metadata.md)
