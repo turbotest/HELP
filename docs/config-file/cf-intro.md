@@ -2,7 +2,7 @@
 
 The `.turbo-test.yml` file is where almost all of your configuration is specified. (The exception to this is secret keys required by your tests, which you can store on the Turbo Test web site if you like.)
 
-You can see a minimal sample file [here](https://github.com/turbotest/sandbox/blob/master/.turbo_test.yml). The sections of this YAML file are as follows...
+The sample sandbox configuration file [is on Github here](https://github.com/turbotest/sandbox/blob/master/.turbo_test.yml). At the time of this writing, it contains the following:
 
 ```yaml
 env:
@@ -36,4 +36,4 @@ test_suite:
     # - test_272_mins/*_test.sh
 ```
 
-This is a minimal sample file, so instead of executing real tests, it merely runs shell scripts with various sleep durations.
+The sections of this YAML file are as follows...
