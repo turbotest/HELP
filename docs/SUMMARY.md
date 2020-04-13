@@ -14,11 +14,11 @@
     * [No queueing](architecture/no-queueing.md)
     
     
-* [The .turbo-test.yml configuration file](config-file/config-file-intro.md)
-    * [Environment variables](config-file/env-vars.md)
-    * [Installation](config-file/test-vm-installation.md)
-    * [Setup](config-file/test-vm-setup.md)
-    * [Test suites](config-file/test-suites.md)
+* [The .turbo-test.yml configuration file](config-file/cf-intro.md)
+    * [Environment variables](config-file/cf-env-vars-section.md)
+    * [Installation](config-file/cf-install-section.md)
+    * [Setup](config-file/cf-setup-section.md)
+    * [Test suites](config-file/cf-test-suite-section.md)
 
 * [Testing configuration locally with Vagrant](vagrant/testing-configuration-locally-with-vagrant.md)
 
