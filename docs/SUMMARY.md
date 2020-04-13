@@ -1,4 +1,4 @@
-* [What is Turbo Test?](intro/what-is-turbo-test.md)
+* [What is Turbo Test?](intro/intr-what-is-turbo-test.md)
 
 * [Installing to Your Private Repo](installing-to-private-repo/ipr-intro.md)
     * [Install Turbo Test to your Github account](installing-to-private-repo/ipr-github-installation.md)

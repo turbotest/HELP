@@ -6,5 +6,5 @@ use a smaller private test repo to start.
 
 There are two steps:
 
-1) Installing Turbo Test
-1) Configuring Turbo Test
+1. Installing Turbo Test to your Github account and repo
+1. Configuring Turbo Test (the .turbo_test.yml file)

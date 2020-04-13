@@ -1,7 +1,7 @@
 root: ./docs/
 
 structure:
-  readme: intro/what-is-turbo-test.md
+  readme: intro/intr-what-is-turbo-test.md
   summary: SUMMARY.md
 
 redirects:
