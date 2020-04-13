@@ -7,4 +7,4 @@ use a smaller private test repo to start.
 There are two steps:
 
 1) Installing Turbo Test
-2) Configuring Turbo Test
+1) Configuring Turbo Test
