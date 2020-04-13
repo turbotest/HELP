@@ -1,8 +1,8 @@
 # Creating the YAML Configuration File
 
-The `.turbo_test.yml` file is where you specify everything Turbo Test needs to know to run your test suite. It is described in the [configuration file section](../config-file/cf-intro.md).
+The `.turbo_test.yml` file is where you specify everything Turbo Test needs to know to run your test suite. It is described in [the configuration file section](../config-file/cf-intro.md).
 
-As an example, we provide the sample sandbox configuration file on Github [here](https://github.com/turbotest/sandbox/blob/master/.turbo_test.yml). At the time of this writing, it consists of this:
+As an example, we provide the sample sandbox configuration file [on Github here](https://github.com/turbotest/sandbox/blob/master/.turbo_test.yml). At the time of this writing, it consists of this:
 
 ```yaml
 env:
