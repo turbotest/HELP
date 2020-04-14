@@ -24,9 +24,8 @@ Now you can install rvm. For the most up to date instructions, go to [https://rv
 ```shell script
 gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
 \curl -sSL https://get.rvm.io | bash
+. ~/.bashrc  # to load rvm into this shell instance
 ```
-
-Exit the Vagrant shell (ctrl-D) and re-enter it (`vagrant ssh`), to load rvm.
 
 You can see the versions of Ruby available for installing by running:
 
@@ -46,4 +45,17 @@ Install the one you want, e.g.
 
 ```shell script
 rvm install 2.7
+```
+
+To put this all together, this could go in the `install` section of your configuration file:
+
+```shell script
+sudo apt-get update -y
+sudo apt-get install make upstart gcc g++ make -y --no-install-recommends
+gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+\curl -sSL https://get.rvm.io | bash
+. ~/.bashrc  # to load rvm into this shell instance
+rvm install 2.7
+
+
 ```
