@@ -8,7 +8,7 @@
 
 * [Overview](overview/README.md)
 
-* [Installing Turbo Test as a Github Application](kmcd/tt-help/docs/github-app/README.md)
+* [Installing Turbo Test as a Github Application](github-app/README.md)
 
 * [The .turbo-test.yml configuration file](config-file/README.md)
   * [Environment variables](config-file/cf-env-vars-section.md)
