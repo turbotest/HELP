@@ -21,9 +21,9 @@ You will then see:
 
 ![](images/installation/4-select-repos.png)
 
-Click the "Select repositories" button and select the repository/ies.
+Click the "Select repositories" button and select the desired repositories.
 
-After making a selection, you will be brought back to a screen like the one below.
+You will then be brought back to a screen like the one below.
 
 Note the feedback under the "Select repositories button" showing the number of repos and their names:
 
@@ -37,6 +37,7 @@ You may then need to confirm your Github password to continue:
 Input your password and click the green "Confirm password" button.
 
 You will be brought to the Turbo Test page. 
+
 ![](images/installation/7-please-inst-tt.png)
 
 If you see a message saying "Please install turbotest github application on one of your repositories", refresh the page. (This will be fixed soon.) 
