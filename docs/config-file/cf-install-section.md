@@ -1,6 +1,6 @@
-# Installation
+# Config File -- Installation Section
 
-## install
+### install
 
 ```bash
 install: |

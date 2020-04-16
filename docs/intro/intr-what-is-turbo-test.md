@@ -13,5 +13,5 @@ You do not need to sign up for the cloud resources used to perform the tests -- 
 
 We recommend familiarizing yourself with Turbo Test at first with a repo whose tests are not too time consuming. This will give you faster feedback while you are learning.
 
-We provide the [sample sandbox repo](https://github.com/turbotest/HELP/tree/664b92d8d08ad9de33ffb3af811b0dc83f809e63/sandbox/README.md) as an even easier starting point, as it already has a working configuration file.
-
+We provide the [sample sandbox repo](../../sandbox) as an even easier starting point,
+as it already has a working configuration file.

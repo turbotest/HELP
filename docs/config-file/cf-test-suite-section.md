@@ -1,4 +1,4 @@
-# Test suites
+# Config File -- Test Suite Section
 
 ```yaml
 test_suite:

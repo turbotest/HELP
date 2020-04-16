@@ -1,4 +1,4 @@
-# Setup
+# Config File -- Setup Section
 
 ```yaml
 setup: |
