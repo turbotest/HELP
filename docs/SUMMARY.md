@@ -2,11 +2,11 @@
 
 * [What is Turbo Test?](intro/intr-what-is-turbo-test.md)
 
-* [Installing to Your Private Repo](installing-to-private-repo/README.md)
-  * [Install Turbo Test to your Github account](installing-to-private-repo/ipr-github-installation.md)
-  * [Create the .turbo\_test.yml file](installing-to-private-repo/ipr-create-yaml-file.md)
-  * [Test locally](installing-to-private-repo/ipr-test-locally.md)
-  * [Push commit](installing-to-private-repo/ipr-push-commit.md)
+* [Installing to Your Repo](installing-to-repo/README.md)
+  * [Install Turbo Test to your Github account](kmcd/tt-help/docs/installing-to-repo/ir-github-installation.md)
+  * [Create the .turbo\_test.yml file](kmcd/tt-help/docs/installing-to-repo/ir-create-yaml-file.md)
+  * [Test locally](kmcd/tt-help/docs/installing-to-repo/ir-test-locally.md)
+  * [Push commit](kmcd/tt-help/docs/installing-to-repo/ir-push-commit.md)
 
 * [Architecture -- how it works](architecture/README.md)
   * [Massively parallel](architecture/massively-parallel.md)
