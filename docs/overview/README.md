@@ -2,7 +2,7 @@
 
 Here are the sections of this documentation and how they will help you:
 
-* [Architecture](../architecture)
+* [Architecture](../architecture) - how Turbo Test does what it does to make your tests run faster
 
 * [Installing Turbo Test as a Github Application](kmcd/tt-help/docs/github-app/README.md) - in order to use Turbo Test,
  you must first create an account and attach it to your Github account and desired repos
@@ -19,6 +19,6 @@ your Turbo Test account
 * [Language-specific reference](language-specific-reference/README.md) - information you may find helpful 
 relating to your specific programming language
 
-* [Environment variables](env-vars/README.md) - how environment variables are handled in Turbo Test
+* [Environment variables](env-vars/README.md) - how Turbo Test handles environment variables
 
 * [Pricing](pricing/README.md) - how to find the plan that's best for you
