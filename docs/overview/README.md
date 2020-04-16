@@ -4,7 +4,7 @@ Here are the sections of this documentation and how they will help you:
 
 * [Architecture](../architecture) - how Turbo Test does what it does to make your tests run faster
 
-* [Installing Turbo Test as a Github Application](kmcd/tt-help/docs/github-app/README.md) - in order to use Turbo Test,
+* [Installing Turbo Test as a Github Application](github-app/README.md) - in order to use Turbo Test,
  you must first create an account and attach it to your Github account and desired repos
 
 * [The .turbo-test.yml configuration file](config-file/README.md) - this file contains all or almost all of your repo's
