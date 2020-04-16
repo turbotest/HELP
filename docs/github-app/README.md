@@ -48,3 +48,8 @@ If you see a message saying "Please install turbotest github application on one 
 
 That's it, you're done. You will see all the repos on which you installed Turbo Test with the text "waiting for first build..." beside them.
 
+After Turbo Test has been installed and configured, and you have pushed a change to Github, here's what a page containing Turbo Test's test results may look like:
+
+![](images/installation/8-turbo-test-results-page.png)
+
+
