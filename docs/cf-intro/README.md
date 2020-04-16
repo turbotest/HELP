@@ -1,6 +1,6 @@
 # The .turbo-test.yml configuration file
 
-The `.turbo-test.yml` file is where almost all of your configuration is specified. \(The exception to this is secret keys required by your tests, which you can store on the Turbo Test web site if you like.\)
+The `.turbo-test.yml` file is where almost all of your configuration is specified. (The exception to this is secret keys required by your tests, which you can store on the Turbo Test web site if you like.)
 
 The sample sandbox configuration file [is on Github here](https://github.com/turbotest/sandbox/blob/master/.turbo_test.yml). At the time of this writing, it contains the following:
 

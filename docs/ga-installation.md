@@ -32,7 +32,7 @@ Input your password and click the green "Confirm password" button:
 
 ![confirm github password button](.gitbook/assets/6-confirm-github-password.png)
 
-You will be brought to the Turbo Test page. If you see a message saying "Please install turbotest github application on one of your repositories", refresh the page. \(This will be fixed soon.\) 
+You will be brought to the Turbo Test page. If you see a message saying "Please install turbotest github application on one of your repositories", refresh the page. (This will be fixed soon.) 
 
 ![please install Turbo Test image](.gitbook/assets/7-please-inst-tt.png)
 

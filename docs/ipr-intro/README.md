@@ -5,5 +5,5 @@ This section describes how you can get TurboTest up and running on one of your G
 There are two steps:
 
 1. Installing Turbo Test to your Github account and repo
-2. Configuring Turbo Test \(the .turbo\_test.yml file\)
+2. Configuring Turbo Test (the .turbo\_test.yml file)
 

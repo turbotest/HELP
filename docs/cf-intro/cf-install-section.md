@@ -2,7 +2,7 @@
 
 ## install
 
-```text
+```bash
 install: |
      sudo apt-get update -y
      sudo apt-get install make upstart gcc g++ make -y --no-install-recommends

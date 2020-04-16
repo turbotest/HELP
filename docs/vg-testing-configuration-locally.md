@@ -20,7 +20,7 @@ There are of course a multitude of ways you could do this, but here are some sug
 
 You can extract pieces of your YAML configuration file using `yq`. For example, to extract the install section, you can run:
 
-```text
+```bash
 $ yq r .turbo_test.yml install
 
 sudo apt-get update -y
@@ -29,14 +29,14 @@ sudo apt-get install make upstart gcc g++ make -y --no-install-recommends
 
 ...or nested elements such as:
 
-```text
+```bash
 $ yq r .turbo_test.yml test_suite.files
 
 - test_17_mins/*_test.sh
 ...
 ```
 
-If you copy the output of these commands to your clipboard \(for example, by appending to the command `| pbcopy` on Mac OS or `| xclip -selection c` on Linux\), then after running `vagrant ssh` you can simply paste them into your ssh session to try them out.
+If you copy the output of these commands to your clipboard (for example, by appending to the command `| pbcopy` on Mac OS or `| xclip -selection c` on Linux), then after running `vagrant ssh` you can simply paste them into your ssh session to try them out.
 
 In this way, you can verify that your installation and setup commands succeed, without needing to push any changes to Github.
 
@@ -48,5 +48,5 @@ If you have installed vagrant using a package manager, and are having this probl
 zsh: /usr/bin/vagrant: bad interpreter: /usr/bin/ruby: no such file or directory
 ```
 
-...then removing the package and installing Vagrant from a package downloaded from [the Vagrant web site](https://www.vagrantup.com/downloads.html) will probably solve the problem. \(See [this StackOverflow question](https://stackoverflow.com/questions/43813735/cannot-start-vagrant-ubuntu-16-04) for more detail.\)
+...then removing the package and installing Vagrant from a package downloaded from [the Vagrant web site](https://www.vagrantup.com/downloads.html) will probably solve the problem. (See [this StackOverflow question](https://stackoverflow.com/questions/43813735/cannot-start-vagrant-ubuntu-16-04) for more detail.)
 

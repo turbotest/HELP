@@ -1,6 +1,6 @@
 As an example application, let's start a bare new Rails application with just the skeleton created by `rails new`. We pass some flags to make the generated code base leaner and faster-running:
 
-```shell script
+```bash
 rails new turbotest-ruby-sandbox   \
   --skip-sprockets      \
   --skip-javascript     \
