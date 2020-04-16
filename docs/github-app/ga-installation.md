@@ -11,31 +11,35 @@ Click the green "Authorize turbotest" button. You will be returned to turbo-test
 
 ![](images/installation/2-install-turbo-test.png)
 
-Click the blue "Install" link at the top.
-
-Select "All repositories" or "Only select repositories". 
+Click the blue "Install" link at the top. This will bring you to the following page:
 
 ![](images/installation/3-all-or-select-repos.png)
 
-If you choose "Only select repositories", click the "Select repositories" button and select the repository/ies: 
+You can choose between "All repositories" or "Only select repositories", but you will 
+probably want "Only select repositories". Assuming you do, select that choice.
+You will then see:
 
 ![](images/installation/4-select-repos.png)
 
+Click the "Select repositories" button and select the repository/ies.
+
 After making a selection, you will be brought back to a screen like the one below.
 
-Note the feedback under the "Select repositories button" showing the number of repos and their names: 
+Note the feedback under the "Select repositories button" showing the number of repos and their names:
 
 ![](images/installation/5-show-selected-repos.png)
 
-Click the green "Install" button at the bottom of the page.
-
-Input your password and click the green "Confirm password" button: 
+Click the green "Install" button at the bottom of the page. 
+You may then need to confirm your Github password to continue:
 
 ![](images/installation/6-confirm-github-password.png)
 
-You will be brought to the Turbo Test page. If you see a message saying "Please install turbotest github application on one of your repositories", refresh the page. (This will be fixed soon.) 
+Input your password and click the green "Confirm password" button.
 
+You will be brought to the Turbo Test page. 
 ![](images/installation/7-please-inst-tt.png)
+
+If you see a message saying "Please install turbotest github application on one of your repositories", refresh the page. (This will be fixed soon.) 
 
 That's it, you're done. You will see all the repos on which you installed Turbo Test with the text "waiting for first build..." beside them.
 
