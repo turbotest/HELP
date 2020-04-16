@@ -20,7 +20,7 @@
 
 * [Testing configuration locally with Vagrant](vg-testing-configuration-locally.md)
 
-* [Installing Turbo Test as a Github Application](ga-installation.md)
+* [Installing Turbo Test as a Github Application](github-app/ga-installation.md)
 
 * [Using the sandbox repository](sandbox/README.md)
   * [git clone ...](sandbox/sb-fork-or-clone-it.md)
