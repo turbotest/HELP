@@ -6,7 +6,7 @@
   * [Massively parallel](architecture/massively-parallel.md)
   * [No queueing](architecture/no-queueing.md)
 
-* [Installing to Your Repo](installing-to-repo/README.md)
+* [Overview](overview/README.md)
 
 * [Installing Turbo Test as a Github Application](kmcd/tt-help/docs/github-app/README.md)
 

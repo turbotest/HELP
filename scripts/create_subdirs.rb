@@ -2,7 +2,7 @@
 
 require 'fileutils'
 
-dirs = %w(intro  installing-to-repo  architecture  config-file  vagrant  github-app  sandbox  lang  env-vars  pricing)
+dirs = %w(intro  overview  architecture  config-file  vagrant  github-app  sandbox  lang  env-vars  pricing)
 
 dirs.each do |dir|
   FileUtils.mkdir_p(dir)

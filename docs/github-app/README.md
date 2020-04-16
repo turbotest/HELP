@@ -1,5 +1,9 @@
 # Installing the TurboTest application to your Github account
 
+Installation of Turbo Test makes no changes to your local machine. It consists entirely of connecting Turbo Test to your Github account and the repo(s) on which you want to use it. 
+
+Here are the instructions:
+
 Open [https://github.com](https://github.com) in your web browser, and log in to your Github account.
 
 Open a new tab or window in the browser, and go to [https://turbo-test.com](https://turbo-test.com). 
