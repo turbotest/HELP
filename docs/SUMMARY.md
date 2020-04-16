@@ -2,17 +2,13 @@
 
 * [What is Turbo Test?](intro/intr-what-is-turbo-test.md)
 
-* [Installing to Your Repo](installing-to-repo/README.md)
-  * [Install Turbo Test to your Github account](kmcd/tt-help/docs/installing-to-repo/ir-github-installation.md)
-  * [Create the .turbo\_test.yml file](kmcd/tt-help/docs/installing-to-repo/ir-create-yaml-file.md)
-  * [Test locally](kmcd/tt-help/docs/installing-to-repo/ir-test-locally.md)
-  * [Push commit](kmcd/tt-help/docs/installing-to-repo/ir-push-commit.md)
-
 * [Architecture -- how it works](architecture/README.md)
   * [Massively parallel](architecture/massively-parallel.md)
   * [No queueing](architecture/no-queueing.md)
 
-* [Installing Turbo Test as a Github Application](github-app/ga-installation.md)
+* [Installing to Your Repo](installing-to-repo/README.md)
+
+* [Installing Turbo Test as a Github Application](kmcd/tt-help/docs/github-app/README.md)
 
 * [The .turbo-test.yml configuration file](config-file/README.md)
   * [Environment variables](config-file/cf-env-vars-section.md)

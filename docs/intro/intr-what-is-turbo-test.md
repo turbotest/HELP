@@ -2,7 +2,10 @@
 
 [Turbo Test](https://turbo-test.com/) runs your software tests in parallel on the cloud, drastically reducing testing time and increasing developer productivity.
 
-Turbo Test is designed to be simple to configure and use. Here is all you need to do to start using it:
+Turbo Test is designed to be simple to configure and use. 
+Once you've configured it, whenever you push your changes to Github, Turbo Test will automatically run your tests for you.
+
+Here is all you need to do to start using it:
 
 * sign up for the service
 * install the application onto your Github account...
