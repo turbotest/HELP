@@ -12,6 +12,8 @@
   * [Massively parallel](architecture/massively-parallel.md)
   * [No queueing](architecture/no-queueing.md)
 
+* [Installing Turbo Test as a Github Application](github-app/ga-installation.md)
+
 * [The .turbo-test.yml configuration file](config-file/README.md)
   * [Environment variables](config-file/cf-env-vars-section.md)
   * [Installation](config-file/cf-install-section.md)
@@ -19,8 +21,6 @@
   * [Test suites](config-file/cf-test-suite-section.md)
 
 * [Testing configuration locally with Vagrant](vg-testing-configuration-locally.md)
-
-* [Installing Turbo Test as a Github Application](github-app/ga-installation.md)
 
 * [Using the sandbox repository](sandbox/README.md)
   * [git clone ...](sandbox/sb-fork-or-clone-it.md)
