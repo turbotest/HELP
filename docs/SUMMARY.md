@@ -16,7 +16,7 @@
   * [Setup](config-file/cf-setup-section.md)
   * [Test suites](config-file/cf-test-suite-section.md)
 
-* [Testing configuration locally with Vagrant](vg-testing-configuration-locally.md)
+* [Testing configuration locally with Vagrant](testing-locally)
 
 * [Using the sandbox repository](sandbox/README.md)
   * [git clone ...](sandbox/sb-fork-or-clone-it.md)
