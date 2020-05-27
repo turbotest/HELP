@@ -2,7 +2,7 @@
 
 * [Overview](intro/intr-what-is-turbo-test.md)
 * [Getting started](architecture.md)
-* [⛱ Sandbox repository](sandbox/README.md)
+* [🏖 Sandbox repository](sandbox/README.md)
   * [git clone ...](sandbox/sb-fork-or-clone-it.md)
   * [Install the application](sandbox/sb-install-application.md)
   * [Edit the configuration file](sandbox/sb-edit-config-file.md)
