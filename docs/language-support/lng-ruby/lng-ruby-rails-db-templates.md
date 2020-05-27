@@ -1,0 +1,2 @@
+# Rails DB templates
+
