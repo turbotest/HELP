@@ -14,10 +14,7 @@
   * [Test suites](build-configuration/cf-test-suite-section.md)
 * [Troubleshooting](troubleshooting.md)
 * [Language support](language-support/README.md)
-  * [Ruby](language-support/lng-ruby/README.md)
-    * [Example application](language-support/lng-ruby/lng-ruby-example-app.md)
-    * [Rails template](language-support/lng-ruby/lng-ruby-rails-template.md)
-    * [Rails DB templates](language-support/lng-ruby/lng-ruby-rails-db-templates.md)
+  * [Ruby](language-support/lng-ruby.md)
 * [Platform reference](platform-reference.md)
 * [Pricing](pricing.md)
 
