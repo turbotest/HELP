@@ -1,4 +1,4 @@
-# 🛠 Build configuration
+# 🛠 Build Configuration
 
 The `.turbo-test.yml` file is where almost all of your configuration is specified. \(The exception to this is secret keys required by your tests, which you can store on the Turbo Test web site if you like.\)
 

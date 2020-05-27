@@ -1,2 +1,2 @@
-# 📚 Platform reference
+# 📚 Platform Reference
 

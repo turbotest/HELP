@@ -1,2 +1,2 @@
-# ☕️ Language support
+# ☕️ Language Support
 
