@@ -1,2 +1,2 @@
-# Pricing
+# 🧾 Pricing
 

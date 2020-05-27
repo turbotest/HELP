@@ -1,4 +1,4 @@
-# Troubleshooting
+# 🤔 Troubleshooting
 
 Whenever you push changes to Github, Turbo Test will:
 

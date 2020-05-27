@@ -1,7 +1,4 @@
-# Getting started
-
-  
-‌
+# 🐣 Getting started
 
 Installation of Turbo Test makes no changes to your local machine. It consists entirely of connecting Turbo Test to your Github account and the repo\(s\) on which you want to use it.‌
 
